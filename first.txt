@@ -1,4 +1,6 @@
-Git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚Ü‚·B
-Šî–{“I‚Èƒ[ƒNƒtƒ[‚ğŠw‚Ñ‚Ü‚·B
-Egit add
-Egit commit
+Gitã®ç·´ç¿’ã‚’ã—ã¦ã„ã¾ã™ã€‚
+åŸºæœ¬çš„ãªãƒ¯ãƒ¼ã‚¯ãƒ•ãƒ­ãƒ¼ã®å­¦ç¿’
+ãƒ»git add
+ãƒ»git commit
+ãƒ»git remove
+ãƒ»git status
